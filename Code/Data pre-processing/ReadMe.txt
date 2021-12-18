@@ -1,0 +1,1 @@
+The data provided in this GitHub have already been cut as pixels around each groundtruth rainfall station because the initial data for all 6 different satellite products take more than 500GBs. However, you can find here the code for extracting the wanted data in each location.

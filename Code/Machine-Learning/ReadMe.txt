@@ -1,0 +1,1 @@
+Different modeling attempts were used to classify each day of the satellite precipitation products as wet or dry using ML (Logistic Regression, Random Forest, Gaussian Naive Bayes and Support Vector Classification) and DL (FFN, CNN, ensemble models) algorithms

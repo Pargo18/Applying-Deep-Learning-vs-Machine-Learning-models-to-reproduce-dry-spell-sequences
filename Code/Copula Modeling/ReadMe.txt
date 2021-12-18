@@ -1,0 +1,1 @@
+An attempt was made to model the data using copulas. However, due to the intrisic imbalance of precipitation data, ML/DL where preffered.
